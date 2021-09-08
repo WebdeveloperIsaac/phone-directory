@@ -1,11 +1,8 @@
-import React,{ Component } from'react';
-
+import React from'react';
+import Header from'./Header'
 function App() {
   return (
     <div>
-      <div>
-        Phone DIrectory
-      </div>
       <div>
         <button >Add</button><br/>
         <span>Name</span>
